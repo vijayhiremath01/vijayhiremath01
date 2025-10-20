@@ -28,8 +28,7 @@
 <a href="https://dev.to/vijayhiremath01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vijayhiremath01" height="30" width="40" /></a>
 <a href="https://twitter.com/znozxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="znozxcode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vijay sangayya hiremath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay sangayya hiremath" height="30" width="40" /></a>
-<a href="https://instagram.com/znozxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="znozxcode" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/znozxcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="znozxcode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://youtube.com/@znozxcode?si=jwit5fmbjfbo7wtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@znozxcode?si=jwit5fmbjfbo7wtc" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/GQyff2XX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/GQyff2XX" height="30" width="40" /></a>
 </p>
 
@@ -41,5 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayhiremath01&show_icons=true&locale=en" alt="vijayhiremath01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayhiremath01&" alt="vijayhiremath01" /></p>
-
-
